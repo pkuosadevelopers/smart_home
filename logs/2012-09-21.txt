@@ -1,0 +1,82 @@
+2012-09-21 19:46:15 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-09-21 19:46:15 [main.c]main(94): 
+ accepting connections......
+2012-09-21 19:46:15 [main.c]pthread_server(131): 
+ serverThread begin!!! 
+2012-09-21 19:46:15 [main.c]pthread_receive_from_tty(301): 
+init tty begins
+2012-09-21 19:46:15 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-09-21 19:46:15 [tty.c]tty_open_dev(32): 
+Can't open serial port
+2012-09-21 19:46:15 [main.c]pthread_receive_from_tty(305): 
+Open dev failed
+2012-09-21 19:47:06 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-09-21 19:47:06 [main.c]main(94): 
+ accepting connections......
+2012-09-21 19:47:06 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-09-21 19:47:06 [main.c]pthread_receive_from_tty(301): 
+init tty begins
+2012-09-21 19:47:06 [tty.c]tty_open_dev(32): 
+Can't open serial port
+2012-09-21 19:47:06 [main.c]pthread_receive_from_tty(305): 
+Open dev failed
+2012-09-21 19:48:30 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-09-21 19:48:30 [main.c]main(94): 
+ accepting connections......
+2012-09-21 19:48:30 [main.c]pthread_server(133): 
+ serverThread begin!!! 
+2012-09-21 19:48:30 [main.c]pthread_check_online_status(285): 
+
+another check in 5s
+
+2012-09-21 19:48:35 [main.c]pthread_check_online_status(285): 
+
+another check in 5s
+
+2012-09-21 19:48:40 [main.c]pthread_check_online_status(285): 
+
+another check in 5s
+
+2012-09-21 20:46:57 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-09-21 20:46:57 [main.c]main(97): 
+ accepting connections......
+2012-09-21 20:46:57 [main.c]pthread_server(143): 
+ serverThread begin!!! 
+2012-09-21 20:46:57 [main.c]pthread_check_online_status(295): 
+
+another check in 5s
+
+2012-09-21 20:47:02 [main.c]pthread_check_online_status(295): 
+
+another check in 5s
+
+2012-09-21 22:23:36 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-09-21 22:23:36 [main.c]main(97): 
+ accepting connections......
+2012-09-21 22:23:36 [main.c]pthread_check_online_status(295): 
+
+another check in 5s
+
+2012-09-21 22:23:36 [main.c]pthread_server(143): 
+ serverThread begin!!! 

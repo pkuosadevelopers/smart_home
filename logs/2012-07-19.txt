@@ -1,0 +1,1808 @@
+2012-07-19 00:08:53 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-07-19 00:08:53 [main.c]main(94): 
+ accepting connections......
+2012-07-19 00:08:53 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:08:53 [main.c]pthread_server(131): 
+ serverThread begin!!! 
+2012-07-19 00:08:53 [main.c]pthread_receive_from_tty(301): 
+init tty begins
+2012-07-19 00:08:53 [main.c]pthread_receive_from_tty(308): 
+open success
+2012-07-19 00:08:53 [main.c]pthread_receive_from_tty(315): 
+set speed success
+2012-07-19 00:08:53 [main.c]pthread_receive_from_tty(321): 
+set parity success
+2012-07-19 00:08:58 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:09:03 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:09:08 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:09:08 [main.c]pthread_server(139): 
+new client is add!
+2012-07-19 00:09:13 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:09:13 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:09:13 [main.c]pthread_receive_from_client(190): 
+5 is Out Of Time
+2012-07-19 00:09:13 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:09:14 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0311201$ and 8 is sended, REQ
+2012-07-19 00:09:18 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:09:18 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:09:18 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:09:23 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:09:23 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:09:23 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:09:23 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:09:25 [message.c]find_client_to_send(96): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:09:28 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:09:28 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:09:28 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:09:33 [main.c]pthread_receive_from_client(204): 
+5 socket is closed
+2012-07-19 00:09:33 [main.c]pthread_receive_from_client(243): 
+
+5 will be finished at once
+
+2012-07-19 00:09:33 [main.c]pthread_receive_from_client(248): 
+
+5 message are all be deleted
+
+2012-07-19 00:09:33 [main.c]pthread_receive_from_client(253): 
+
+5 client is deleted from the client nodes list
+
+2012-07-19 00:09:33 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:09:38 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:09:43 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:09:48 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:19:23 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-07-19 00:19:23 [main.c]main(94): 
+ accepting connections......
+2012-07-19 00:19:23 [main.c]pthread_server(131): 
+ serverThread begin!!! 
+2012-07-19 00:19:23 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:19:23 [main.c]pthread_receive_from_tty(301): 
+init tty begins
+2012-07-19 00:19:23 [main.c]pthread_receive_from_tty(308): 
+open success
+2012-07-19 00:19:23 [main.c]pthread_receive_from_tty(315): 
+set speed success
+2012-07-19 00:19:23 [main.c]pthread_receive_from_tty(321): 
+set parity success
+2012-07-19 00:19:28 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:19:33 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:19:38 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:19:43 [main.c]pthread_server(139): 
+new client is add!
+2012-07-19 00:19:43 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:19:43 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:19:45 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:19:48 [message.c]find_client_to_send(94): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:19:48 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:19:48 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:19:48 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:19:51 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:19:51 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:19:51 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:19:53 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:19:53 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:19:53 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:19:53 [message.c]find_client_to_send(94): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:19:58 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:19:58 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:19:58 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:20:03 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:20:03 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:20:03 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:20:08 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:20:08 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:20:08 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:20:10 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:20:13 [message.c]find_client_to_send(94): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:20:13 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:20:13 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:20:13 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:20:15 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:20:16 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:20:16 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:20:18 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:20:18 [message.c]find_client_to_send(94): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:20:18 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:20:18 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:20:23 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:20:23 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:20:23 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:20:28 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:20:28 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:20:28 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:20:33 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:20:33 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:20:33 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:20:38 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:20:38 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:20:38 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:20:41 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:20:43 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:20:43 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:20:43 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:20:44 [message.c]find_client_to_send(94): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:20:48 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:20:48 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:20:48 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:20:48 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:20:48 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:20:48 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:20:48 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:20:50 [message.c]find_client_to_send(94): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:20:53 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:20:53 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:20:53 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:20:58 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:20:58 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:20:58 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:21:03 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:21:03 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:21:03 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:21:08 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:21:08 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:21:08 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:21:12 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:21:13 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:21:13 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:21:13 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:21:15 [message.c]find_client_to_send(94): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:21:18 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:21:18 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:21:18 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:21:18 [main.c]pthread_receive_from_client(204): 
+5 socket is closed
+2012-07-19 00:21:18 [main.c]pthread_receive_from_client(243): 
+
+5 will be finished at once
+
+2012-07-19 00:21:18 [main.c]pthread_receive_from_client(248): 
+
+5 message are all be deleted
+
+2012-07-19 00:21:18 [main.c]pthread_receive_from_client(253): 
+
+5 client is deleted from the client nodes list
+
+2012-07-19 00:21:23 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:21:28 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:21:33 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:21:38 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:21:43 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:21:48 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:21:53 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:21:58 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:22:03 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:22:08 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:22:13 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:22:18 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:22:23 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:22:28 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:22:33 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:22:38 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:22:43 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:22:48 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:22:53 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:22:58 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:03 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:08 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:13 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:18 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:23 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:28 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:33 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:38 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:43 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-07-19 00:23:43 [main.c]main(94): 
+ accepting connections......
+2012-07-19 00:23:43 [main.c]pthread_server(131): 
+ serverThread begin!!! 
+2012-07-19 00:23:43 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:43 [main.c]pthread_receive_from_tty(301): 
+init tty begins
+2012-07-19 00:23:43 [main.c]pthread_receive_from_tty(308): 
+open success
+2012-07-19 00:23:43 [main.c]pthread_receive_from_tty(315): 
+set speed success
+2012-07-19 00:23:43 [main.c]pthread_receive_from_tty(321): 
+set parity success
+2012-07-19 00:23:48 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:53 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:58 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:23:59 [main.c]pthread_server(139): 
+new client is add!
+2012-07-19 00:24:01 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:24:03 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:24:03 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:24:04 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:24:04 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:24:08 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:24:08 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:24:09 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:24:13 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:24:13 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:24:14 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:24:18 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:24:18 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:24:19 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:24:23 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:24:23 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:24:24 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:24:28 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:24:28 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:24:29 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:24:32 [main.c]pthread_server(139): 
+new client is add!
+2012-07-19 00:24:33 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:24:33 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:24:33 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:24:34 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:24:35 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:24:37 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:24:37 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:24:38 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:24:38 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:24:38 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:24:39 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:24:40 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:24:41 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:24:42 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:24:42 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:24:43 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:24:43 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:24:43 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:24:44 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:24:47 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:24:47 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:24:48 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:24:48 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:24:48 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:24:49 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:24:50 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:24:52 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:24:52 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:24:53 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:24:53 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:24:53 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:24:54 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:24:55 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:24:57 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:24:58 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:24:58 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:24:58 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:24:59 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:25:00 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:02 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:25:03 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:25:03 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:25:03 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:25:03 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:25:04 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:25:05 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:07 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:25:08 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:25:08 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:25:08 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:25:08 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:25:08 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:09 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:25:11 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:25:11 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:11 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:11 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:12 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:12 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:12 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:12 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:12 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:12 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:12 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:25:12 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:13 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:13 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:13 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:13 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:25:13 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:25:13 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:25:13 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:13 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:13 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:13 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:14 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:14 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:14 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:14 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:14 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:25:14 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:14 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:25:14 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:14 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:14 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:17 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:25:18 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:25:18 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:25:18 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:25:18 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:25:19 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:25:21 [main.c]pthread_receive_from_client(204): 
+5 socket is closed
+2012-07-19 00:25:21 [main.c]pthread_receive_from_client(243): 
+
+5 will be finished at once
+
+2012-07-19 00:25:21 [main.c]pthread_receive_from_client(248): 
+
+5 message are all be deleted
+
+2012-07-19 00:25:21 [main.c]pthread_receive_from_client(253): 
+
+5 client is deleted from the client nodes list
+
+2012-07-19 00:25:22 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:25:23 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:25:23 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:25:27 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:25:28 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:25:28 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:25:32 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:25:33 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:25:33 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:25:37 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:25:38 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:25:38 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:25:42 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:25:43 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:25:43 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:25:43 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:46 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:25:47 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:25:48 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:25:48 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:25:52 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:25:53 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:25:53 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:25:53 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:25:56 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:25:57 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:25:58 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:25:58 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:26:01 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:26:02 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:26:03 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:26:03 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:26:03 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:26:07 [main.c]pthread_receive_from_client(190): 
+7 is Out Of Time
+2012-07-19 00:26:07 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:26:08 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:26:08 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:26:08 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:26:11 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:26:12 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:26:13 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:26:13 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:26:14 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:26:17 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:26:17 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:26:18 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:26:18 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:26:20 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:26:22 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:26:23 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:26:23 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:26:25 [main.c]pthread_receive_from_client(190): 
+7 is Out Of Time
+2012-07-19 00:26:25 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:26:27 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:26:28 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:26:28 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:26:32 [main.c]pthread_receive_from_client(190): 
+7 is Out Of Time
+2012-07-19 00:26:32 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:26:33 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:26:33 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:26:37 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:26:38 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:26:38 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:26:42 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:26:42 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:26:43 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:26:43 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:26:45 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:26:47 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:26:48 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:26:48 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:26:48 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:26:50 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:26:52 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:26:53 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:26:53 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:26:54 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:26:56 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:26:57 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:26:58 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:26:58 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:27:01 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:27:02 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:27:03 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:27:03 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:27:03 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:27:04 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:27:07 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:27:07 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:27:08 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:27:08 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:27:09 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:27:12 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:27:12 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:27:13 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:27:13 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:27:16 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:27:17 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:27:18 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:27:18 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:27:19 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:27:22 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:27:22 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:27:23 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:27:23 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:27:25 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:27:27 [main.c]pthread_receive_from_client(190): 
+7 is Out Of Time
+2012-07-19 00:27:27 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:27:28 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:27:28 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:27:32 [main.c]pthread_receive_from_client(190): 
+7 is Out Of Time
+2012-07-19 00:27:33 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:27:33 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:27:33 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:27:37 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:27:38 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:27:38 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:27:42 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:27:43 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:27:43 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:27:47 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:27:48 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:27:48 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:27:50 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:27:52 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:27:53 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:27:53 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:27:53 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:27:57 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:27:58 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:27:58 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:28:02 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:02 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:02 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:02 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:02 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:02 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:28:03 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:03 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:03 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:03 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:28:03 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:28:03 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:03 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:04 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:04 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:04 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:04 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:04 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:28:04 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:05 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:05 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:05 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:05 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:05 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:06 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:06 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:06 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:06 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:06 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:07 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:07 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:07 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:28:08 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:28:08 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:08 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:28:08 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:28:09 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:09 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:09 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:10 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:10 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:10 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:10 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:10 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:11 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:11 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:28:11 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:11 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:11 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:12 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:12 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:12 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:12 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:28:12 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:13 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:13 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:28:13 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:28:13 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:13 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:14 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:14 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:28:14 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:15 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:15 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:15 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:16 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:17 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:17 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:17 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:28:18 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:28:18 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:18 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:18 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:28:18 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:28:18 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:21 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:28:22 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:28:23 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:28:23 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:28:26 [main.c]pthread_receive_from_client(204): 
+7 socket is closed
+2012-07-19 00:28:26 [main.c]pthread_receive_from_client(243): 
+
+7 will be finished at once
+
+2012-07-19 00:28:26 [main.c]pthread_receive_from_client(248): 
+
+7 message are all be deleted
+
+2012-07-19 00:28:26 [main.c]pthread_receive_from_client(253): 
+
+7 client is deleted from the client nodes list
+
+2012-07-19 00:28:28 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:28:33 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:28:38 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:28:43 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:28:48 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:28:50 [main.c]pthread_server(139): 
+new client is add!
+2012-07-19 00:28:52 [main.c]pthread_receive_from_client(233): 
+8 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:28:53 [main.c]pthread_check_online_status(280): 
+fd:8 alive:0 times:0
+2012-07-19 00:28:53 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:28:55 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:28:55 [main.c]pthread_receive_from_client(212): 
+8 received 8 from client :0000000$
+2012-07-19 00:28:58 [main.c]pthread_check_online_status(280): 
+fd:8 alive:0 times:0
+2012-07-19 00:28:58 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:29:00 [main.c]pthread_receive_from_client(212): 
+8 received 8 from client :0000000$
+2012-07-19 00:29:03 [main.c]pthread_check_online_status(280): 
+fd:8 alive:0 times:0
+2012-07-19 00:29:03 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:29:05 [main.c]pthread_receive_from_client(212): 
+8 received 8 from client :0000000$
+2012-07-19 00:29:08 [main.c]pthread_check_online_status(280): 
+fd:8 alive:0 times:0
+2012-07-19 00:29:08 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:29:10 [main.c]pthread_receive_from_client(212): 
+8 received 8 from client :0000000$
+2012-07-19 00:29:13 [main.c]pthread_check_online_status(280): 
+fd:8 alive:0 times:0
+2012-07-19 00:29:13 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:29:15 [main.c]pthread_receive_from_client(212): 
+8 received 8 from client :0000000$
+2012-07-19 00:29:18 [main.c]pthread_check_online_status(280): 
+fd:8 alive:0 times:0
+2012-07-19 00:29:18 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:29:20 [main.c]pthread_receive_from_client(212): 
+8 received 8 from client :0000000$
+2012-07-19 00:29:23 [main.c]pthread_check_online_status(280): 
+fd:8 alive:0 times:0
+2012-07-19 00:29:23 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:29:25 [main.c]pthread_receive_from_client(212): 
+8 received 8 from client :0000000$
+2012-07-19 00:29:26 [main.c]pthread_receive_from_client(204): 
+8 socket is closed
+2012-07-19 00:29:26 [main.c]pthread_receive_from_client(243): 
+
+8 will be finished at once
+
+2012-07-19 00:29:26 [main.c]pthread_receive_from_client(248): 
+
+8 message are all be deleted
+
+2012-07-19 00:29:26 [main.c]pthread_receive_from_client(253): 
+
+8 client is deleted from the client nodes list
+
+2012-07-19 00:29:28 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:35:04 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-07-19 00:35:04 [main.c]main(94): 
+ accepting connections......
+2012-07-19 00:35:04 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:35:04 [main.c]pthread_server(131): 
+ serverThread begin!!! 
+2012-07-19 00:35:04 [main.c]pthread_receive_from_tty(301): 
+init tty begins
+2012-07-19 00:35:04 [main.c]pthread_receive_from_tty(308): 
+open success
+2012-07-19 00:35:04 [main.c]pthread_receive_from_tty(315): 
+set speed success
+2012-07-19 00:35:04 [main.c]pthread_receive_from_tty(321): 
+set parity success
+2012-07-19 00:35:09 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:35:14 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:35:17 [main.c]pthread_server(139): 
+new client is add!
+2012-07-19 00:35:19 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:35:19 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:35:22 [main.c]pthread_receive_from_client(190): 
+5 is Out Of Time
+2012-07-19 00:35:22 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:35:24 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:35:24 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:35:27 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:35:29 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:35:29 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:35:32 [main.c]pthread_receive_from_client(190): 
+5 is Out Of Time
+2012-07-19 00:35:32 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:35:33 [main.c]pthread_server(139): 
+new client is add!
+2012-07-19 00:35:34 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:35:34 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:35:34 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:35:37 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:35:38 [main.c]pthread_receive_from_client(190): 
+7 is Out Of Time
+2012-07-19 00:35:38 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:35:39 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:35:39 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:35:39 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:35:42 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:35:43 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:35:43 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:35:43 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:35:43 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:35:43 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:35:43 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:35:44 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:35:44 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:35:44 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:35:44 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:35:44 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:35:44 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:35:44 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:35:44 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:35:45 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:35:45 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:35:46 [main.c]pthread_receive_from_client(204): 
+7 socket is closed
+2012-07-19 00:35:46 [main.c]pthread_receive_from_client(243): 
+
+7 will be finished at once
+
+2012-07-19 00:35:46 [main.c]pthread_receive_from_client(248): 
+
+7 message are all be deleted
+
+2012-07-19 00:35:46 [main.c]pthread_receive_from_client(253): 
+
+7 client is deleted from the client nodes list
+
+2012-07-19 00:35:47 [main.c]pthread_receive_from_client(190): 
+5 is Out Of Time
+2012-07-19 00:35:47 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:35:49 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:35:49 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:35:49 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:35:52 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:35:52 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:35:54 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:35:54 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:35:54 [main.c]pthread_receive_from_client(204): 
+5 socket is closed
+2012-07-19 00:35:54 [main.c]pthread_receive_from_client(243): 
+
+5 will be finished at once
+
+2012-07-19 00:35:54 [main.c]pthread_receive_from_client(248): 
+
+5 message are all be deleted
+
+2012-07-19 00:35:54 [main.c]pthread_receive_from_client(253): 
+
+5 client is deleted from the client nodes list
+
+2012-07-19 00:38:37 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-07-19 00:38:37 [main.c]main(94): 
+ accepting connections......
+2012-07-19 00:38:37 [main.c]pthread_server(131): 
+ serverThread begin!!! 
+2012-07-19 00:38:37 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:38:37 [main.c]pthread_receive_from_tty(301): 
+init tty begins
+2012-07-19 00:38:37 [main.c]pthread_receive_from_tty(308): 
+open success
+2012-07-19 00:38:37 [main.c]pthread_receive_from_tty(315): 
+set speed success
+2012-07-19 00:38:37 [main.c]pthread_receive_from_tty(321): 
+set parity success
+2012-07-19 00:38:42 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:38:47 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:38:52 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:38:57 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:38:59 [main.c]pthread_server(139): 
+new client is add!
+2012-07-19 00:39:02 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:39:02 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:39:04 [main.c]pthread_receive_from_client(190): 
+5 is Out Of Time
+2012-07-19 00:39:04 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:39:07 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:39:07 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:39:09 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:39:12 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:39:12 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:39:14 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:39:17 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:39:17 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:39:19 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:39:22 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:39:22 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:39:24 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:39:27 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:39:27 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:39:29 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:39:32 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:39:32 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:39:34 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:39:37 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:39:37 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:39:39 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:39:42 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:39:42 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:39:44 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:39:47 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:39:47 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:39:49 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:39:52 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:39:52 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:39:54 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:39:57 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:39:57 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:39:59 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:40:02 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:40:02 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:40:04 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:40:07 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:40:07 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:40:08 [main.c]pthread_server(139): 
+new client is add!
+2012-07-19 00:40:09 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:40:12 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:40:12 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:40:12 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:40:13 [main.c]pthread_receive_from_client(190): 
+7 is Out Of Time
+2012-07-19 00:40:13 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:40:14 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:40:17 [main.c]pthread_receive_from_client(233): 
+5 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:17 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:40:17 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:40:17 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:40:18 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:40:19 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:40:19 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:40:22 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:22 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:22 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:22 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:40:22 [main.c]pthread_check_online_status(280): 
+fd:7 alive:0 times:0
+2012-07-19 00:40:22 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:40:23 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:23 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:23 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:23 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:23 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:23 [main.c]pthread_receive_from_client(212): 
+7 received 8 from client :0000000$
+2012-07-19 00:40:23 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:24 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:24 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:24 [main.c]pthread_receive_from_client(190): 
+5 is Out Of Time
+2012-07-19 00:40:24 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:40:24 [main.c]pthread_receive_from_client(233): 
+7 received 8 from client :0211201$ and 8 is sended, REQ
+2012-07-19 00:40:25 [message.c]find_client_to_send(95): 
+in find_client_to_send: data is 0211202$, size is 8
+2012-07-19 00:40:26 [main.c]pthread_receive_from_client(204): 
+7 socket is closed
+2012-07-19 00:40:26 [main.c]pthread_receive_from_client(243): 
+
+7 will be finished at once
+
+2012-07-19 00:40:26 [main.c]pthread_receive_from_client(248): 
+
+7 message are all be deleted
+
+2012-07-19 00:40:26 [main.c]pthread_receive_from_client(253): 
+
+7 client is deleted from the client nodes list
+
+2012-07-19 00:40:27 [main.c]pthread_check_online_status(280): 
+fd:5 alive:0 times:0
+2012-07-19 00:40:27 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+
+2012-07-19 00:40:29 [main.c]pthread_receive_from_client(212): 
+5 received 8 from client :0000000$
+2012-07-19 00:40:30 [main.c]pthread_receive_from_client(204): 
+5 socket is closed
+2012-07-19 00:40:30 [main.c]pthread_receive_from_client(243): 
+
+5 will be finished at once
+
+2012-07-19 00:40:30 [main.c]pthread_receive_from_client(248): 
+
+5 message are all be deleted
+
+2012-07-19 00:40:30 [main.c]pthread_receive_from_client(253): 
+
+5 client is deleted from the client nodes list
+
+2012-07-19 00:40:32 [main.c]pthread_check_online_status(283): 
+
+another check in 5s
+

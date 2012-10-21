@@ -1,0 +1,18 @@
+2012-07-10 00:13:56 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-07-10 00:13:56 [main.c]main(90): 
+ accepting connections......
+2012-07-10 00:13:56 [main.c]pthread_server(129): 
+ serverThread begin!!! 
+2012-07-10 00:13:56 [main.c]pthread_receive_from_tty(279): 
+init tty begins
+2012-07-10 00:13:56 [main.c]pthread_check_online_status(264): 
+
+another check in 5s
+
+2012-07-10 00:13:56 [tty.c]tty_open_dev(31): 
+Can't open serial port
+2012-07-10 00:13:56 [main.c]pthread_receive_from_tty(283): 
+Open dev failed

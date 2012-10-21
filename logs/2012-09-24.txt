@@ -1,0 +1,72 @@
+2012-09-24 18:21:11 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-09-24 18:21:11 [main.c]main(98): 
+ accepting connections......
+2012-09-24 18:21:11 [main.c]pthread_server(144): 
+ serverThread begin!!! 
+2012-09-24 18:21:11 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 18:21:16 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 18:21:21 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 19:03:27 [log.c]debug_open_default(123): 
+---------------------
+DBG IS OPEN
+---------------------
+2012-09-24 19:03:27 [main.c]main(98): 
+ accepting connections......
+2012-09-24 19:03:27 [main.c]pthread_server(144): 
+ serverThread begin!!! 
+2012-09-24 19:03:27 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 19:03:32 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 19:03:37 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 19:03:42 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 19:03:47 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 19:03:52 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 19:03:57 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 19:04:02 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 19:04:07 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 19:04:12 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
+2012-09-24 19:04:17 [main.c]pthread_check_online_status(296): 
+
+another check in 5s
+
