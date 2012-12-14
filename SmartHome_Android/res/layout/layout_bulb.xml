@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/tv_bulb_hello"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_bulb_hello" />
+    
+    <TextView
+        android:id="@+id/tv_bulb_1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/tv_bulb_1"/>
+    <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    <Button
+	        android:id="@+id/btn_bulb_on_1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/btn_bulb_on"/>
+	    
+	    <Button
+	        android:id="@+id/btn_bulb_off_1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/btn_bulb_off"/>
+	    
+    </LinearLayout>
+    
+    <TextView
+        android:id="@+id/tv_bulb_2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/tv_bulb_2"/>
+    <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    <Button
+	        android:id="@+id/btn_bulb_on_2"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/btn_bulb_on"/>
+	    
+	    <Button
+	        android:id="@+id/btn_bulb_off_2"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/btn_bulb_off"/>
+	    
+    </LinearLayout>
+    
+    <TextView
+        android:id="@+id/tv_bulb_3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/tv_bulb_3"/>
+    <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    <Button
+	        android:id="@+id/btn_bulb_on_3"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/btn_bulb_on"/>
+	    
+	    <Button
+	        android:id="@+id/btn_bulb_off_3"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/btn_bulb_off"/>
+	    
+    </LinearLayout>
+    
+    <TextView
+        android:id="@+id/tv_bulb_4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/tv_bulb_4"/>
+    <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    <Button
+	        android:id="@+id/btn_bulb_on_4"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/btn_bulb_on"/>
+	    
+	    <Button
+	        android:id="@+id/btn_bulb_off_4"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/btn_bulb_off"/>
+	    
+    </LinearLayout>
+    
+
+</LinearLayout>

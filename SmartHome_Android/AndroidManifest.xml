@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.edu.pku.ss.SmartHome"
+    android:versionCode="1"
+    android:versionName="1.1" >
+
+    <uses-sdk android:minSdkVersion="10" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".SmartHomeActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SubActivityAlarm"/>
+        <activity android:name=".SubActivityBulb"/>
+        <activity android:name=".SubActivityMP3"/>
+        <activity android:name=".SubActivityTemperature"/>
+        <activity android:name=".SubActivityHumidity"/>
+        <activity android:name=".SubActivitySteppingMotor"/>
+        <activity android:name=".SubActivityHumidifier"/>
+        <activity android:name=".SubActivityWaterHeater"/>
+        <activity android:name=".SubActivityAirCleaner"/>
+        <activity android:name=".SubActivityExhaustFan"/>
+        <activity android:name=".SubActivityPhotosensor"/>
+    </application>
+
+</manifest>

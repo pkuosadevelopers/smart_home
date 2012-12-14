@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_show"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+    
+    <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    <LinearLayout 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+	    <TextView
+	        android:id="@+id/tv_bulb"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:hint="@string/tv_bulb"/>
+		<Button
+			android:id="@+id/btn_bulb_start"
+		    android:layout_width="wrap_content"
+		   	android:layout_height="wrap_content"
+		   	android:text="@string/btn_bulb_start"/> 
+	    </LinearLayout>
+	    
+	    <LinearLayout 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+		    <TextView
+	        	android:layout_width="fill_parent"
+	        	android:layout_height="wrap_content"
+	        	android:hint="@string/tv_mp3"/>	
+			<Button
+		        android:id="@+id/btn_mp3_start"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="@string/btn_mp3_start"/> 
+	    </LinearLayout>
+    </LinearLayout>
+    
+    <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    <LinearLayout 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+		    <TextView
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:hint="@string/tv_temp"/>
+			<Button
+			    android:id="@+id/btn_temp_start"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/btn_temp_start"/> 
+	    </LinearLayout>
+        
+	    <LinearLayout 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+		    <TextView
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:hint="@string/tv_photosensor"/>
+			<Button
+			    android:id="@+id/btn_photosensor_start"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/btn_photosensor_start"/> 
+	    </LinearLayout>
+    </LinearLayout>
+ 
+    <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    <LinearLayout 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+		    <TextView
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:hint="@string/tv_humidity"/>
+			<Button
+			    android:id="@+id/btn_humidity_start"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/btn_humidity_start"/> 
+	    </LinearLayout>
+        
+	    <LinearLayout 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+			<TextView
+        		android:layout_width="fill_parent"
+        		android:layout_height="wrap_content"
+        		android:hint="@string/tv_alarm"/>
+			<Button
+	        	android:id="@+id/btn_alarm_start"
+	        	android:layout_width="wrap_content"
+	        	android:layout_height="wrap_content"
+	        	android:text="@string/btn_alarm_start"/>
+	    </LinearLayout>
+    </LinearLayout>
+    
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/tv_motor"/>
+    <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    <Button
+	        android:id="@+id/btn_motor_start"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/btn_motor_start"/>
+    </LinearLayout>
+     
+    <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    <LinearLayout 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+	    <TextView
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:hint="@string/tv_humidifier"/>
+		<Button
+			android:id="@+id/btn_humidifier_start"
+		    android:layout_width="wrap_content"
+		   	android:layout_height="wrap_content"
+		   	android:text="@string/btn_humidifier_start"/> 
+	    </LinearLayout>
+	    
+	    <LinearLayout 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+		    <TextView
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:hint="@string/tv_water_heater"/>
+			<Button
+			    android:id="@+id/btn_water_heater_start"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/btn_water_heater_start"/>
+	    </LinearLayout>
+    </LinearLayout>
+    
+    <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    <LinearLayout 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+	    <TextView
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:hint="@string/tv_air_cleaner"/>
+		<Button
+			android:id="@+id/btn_air_cleaner_start"
+		    android:layout_width="wrap_content"
+		   	android:layout_height="wrap_content"
+		   	android:text="@string/btn_air_cleaner_start"/> 
+	    </LinearLayout>
+	    
+	    <LinearLayout 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+		    <TextView
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:hint="@string/tv_exhaust_fan"/>
+			<Button
+			    android:id="@+id/btn_exhaust_fan_start"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/btn_exhaust_fan_start"/>
+	    </LinearLayout>
+    </LinearLayout>
+    
+    <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    
+	    <EditText
+	        android:id="@+id/tv_ip"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:inputType="text"
+	        android:text="@string/tv_ip"/>
+	    <Button
+	        android:id="@+id/btn_ip"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/btn_ip"/>
+    </LinearLayout>
+
+</LinearLayout>

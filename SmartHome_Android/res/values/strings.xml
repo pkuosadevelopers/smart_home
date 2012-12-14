@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SmartHomeActivity!</string>
+    <string name="app_name">SmartHome</string>
+    
+    <!-- Bulb -->
+    <string name="btn_bulb_start">Start Bulb</string>
+    <string name="btn_bulb_on">Bulb On</string>
+    <string name="btn_bulb_off">Bulb Off</string>
+    <string name="tv_bulb">bulb</string>
+    <string name="tv_bulb_1">bulb in meeting bedroom</string>
+    <string name="tv_bulb_2">bulb in David\'s bedroom</string>
+    <string name="tv_bulb_3">bulb in Daisy\'s bedroom</string>
+    <string name="tv_bulb_4">bulb in bathroom</string>
+    <string name="tv_bulb_hello">This is Bulb Activity</string>
+    
+    <!-- Temperature -->
+    <string name="btn_temp_start">Start Temperature</string>
+    <string name="btn_temp_get">Get Temperature</string>
+    <string name="tv_temp">Temperature</string>
+    <string name="tv_temp_1">Temperature detector in the kitchen</string>
+    <string name="tv_temp_hello">This is Temperature Activity</string>
+    
+    <!-- Humidity -->
+    <string name="btn_humidity_start">Start Humidity</string>
+    <string name="btn_humidity_get">Get Humidity</string>
+    <string name="tv_humidity">Humidity</string>
+    <string name="tv_humidity_1">Humidity detector in the kitchen</string>
+    <string name="tv_humidity_hello">This is Humidity Activity</string>
+    
+    <!-- Photosensor -->
+    <string name="btn_photosensor_start">Start Photosensor</string>
+    <string name="btn_photosensor_get">Get Photosensor</string>
+    <string name="btn_photosensor_value_hint">0</string>
+    <string name="btn_photosensor_level_hint">High</string>
+    <string name="tv_photosensor">Photosensor</string>
+    <string name="tv_photosensor_1">Photosensor detector in the kitchen</string>
+    <string name="tv_photosensor_hello">This is Photosensor Activity</string>
+    <string name="tv_photosensor_value">Value</string>
+    <string name="tv_photosensor_level">Level</string>
+    
+    <!-- Light -->
+    <string name="btn_light_switch">Light Switch</string>
+    <string name="tv_light">light</string>
+    
+    <!-- MP3 -->
+    <string name="btn_mp3_start">Start MP3</string>
+    <string name="btn_mp3_play">Play</string>
+    <string name="btn_mp3_pause">Pause</string>
+    <string name="btn_mp3_pre">Previous</string>
+    <string name="btn_mp3_next">Next</string>
+    <string name="btn_mp3_volume_up">Volume Up</string>
+    <string name="btn_mp3_volume_down">Volume Down</string>
+    <string name="btn_mp3_volume_open">Volume Open</string>
+    <string name="btn_mp3_volume_close">Volume Close</string>
+    <string name="btn_mp3_mode">Mode Setting</string>
+    <string name="btn_mp3_fm">FM</string>
+    <string name="btn_mp3_back">Back</string>
+    <string name="tv_mp3">mp3</string>
+    <string name="tv_mp3_1">mp3 in study room</string>
+    <string name="tv_mp3_hello">This is MP3 Activity</string>
+    
+    <!-- Alarm -->
+    <string name="btn_alarm_start">Start Alarm</string>
+    <string name="btn_alarm_on">Alarm On</string>
+    <string name="btn_alarm_off">Alarm Off</string>
+    <string name="btn_alarm_beep_1">Beep 1 time</string>
+    <string name="btn_alarm_beep_2">Beep 2 times</string>
+    <string name="btn_alarm_beep_3">Beep 3 times</string>
+    <string name="btn_alarm_beep_4">Beep 4 times</string>
+    <string name="btn_alarm_beep_5">Beep 5 times</string>
+    <string name="tv_alarm">alarm</string>
+    <string name="tv_alarm_1">alarm in the kitchen</string>
+    <string name="tv_alarm_hello">This is Alarm Activity</string>
+    
+    <!-- Stepping Motor -->
+    <string name="btn_motor_start">Start Stepping Motor</string>
+    <string name="btn_motor_positive_open">Positive Open</string>
+    <string name="btn_motor_reverse_open">Reverse Open</string>
+    <string name="btn_motor_close">Motor Close</string>
+    <string name="tv_motor">Stepping Motor</string>
+    <string name="tv_motor_hello">This is Stepping Motor Activity</string>
+    
+    <!-- Humidifier -->
+    <string name="btn_humidifier_start">Start Humidifier</string>
+    <string name="btn_humidifier_open">Humidifier Open</string>
+    <string name="btn_humidifier_close">Humidifier Close</string>
+    <string name="tv_humidifier">Humidifier</string>
+    <string name="tv_humidifier_hello">This is Humidifier Activity</string>
+    
+    <!-- Water heater -->
+    <string name="btn_water_heater_start">Start Water Heater</string>
+    <string name="btn_water_heater_open">Water Heater Open</string>
+    <string name="btn_water_heater_close">Water Heater Close</string>
+    <string name="tv_water_heater">Water Heater</string>
+    <string name="tv_water_heater_hello">This is Water Heater Activity</string>
+    
+    <!-- Air Cleaner -->
+    <string name="btn_air_cleaner_start">Start Air Cleaner</string>
+    <string name="btn_air_cleaner_open">Air Cleaner Open</string>
+    <string name="btn_air_cleaner_close">Air Cleaner Close</string>
+    <string name="tv_air_cleaner">Air Cleaner</string>
+    <string name="tv_air_cleaner_hello">This is Air Cleaner Activity</string>
+    
+    <!-- Exhaust Fan -->
+    <string name="btn_exhaust_fan_start">Start Exhaust Fan</string>
+    <string name="btn_exhaust_fan_open">Exhaust Fan Open</string>
+    <string name="btn_exhaust_fan_close">Exhaust Fan Close</string>
+    <string name="tv_exhaust_fan">Exhaust Fan</string>
+    <string name="tv_exhaust_fan_hello">This is Exhaust Fan Activity</string>
+    
+    <!-- IP -->
+    <string name="btn_ip">Set IP</string>
+    <string name="tv_ip">192.168.0.1</string>
+    
+
+</resources>
